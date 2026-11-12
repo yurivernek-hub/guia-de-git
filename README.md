@@ -4,8 +4,9 @@ Um glossário de Git escrito por quem está aprendendo a usá-lo.
 
 ## Dupla (ou trio)
 
-- Nome Sobrenome (usuario-do-github)
-- Nome Sobrenome (usuario-do-github)
+- Yuri Lima Vernek (yurivernek-hub)
+- Adelson Couto (adelsoncouto2-debug)
+- Felipe Peres (perezzcc)
 
 ## Como contribuir
 
